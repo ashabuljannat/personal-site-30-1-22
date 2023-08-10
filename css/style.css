@@ -414,7 +414,6 @@ h3.my-profession {
   margin-top: 30px;
 }
 .about .about-content .personal-info .buttons .btn {
- 
   margin-top: 10px;
 }
 .about .about-content .skills {
@@ -617,7 +616,7 @@ h3.my-profession {
   display: block;
 }
 
-.link a{
+.link a {
   color: var(--text-black-900);
   font-size: 20px;
   font-weight: 600;
